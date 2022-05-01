@@ -14,7 +14,7 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(express.static("public"));
 
-mongoose.connect("mongodb+srv://thongzxje:thongbu123@cluster0.10exm.mongodb.net/todolistDB");
+mongoose.connect();
 
 
 const itemsSchema = {
