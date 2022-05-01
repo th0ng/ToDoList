@@ -11,7 +11,18 @@
   "dependencies": {
     "body-parser": "^1.20.0",
     "ejs": "^3.1.7",
-    "express": "^4.18.0",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.3.1",
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th0ng/ToDoList.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/th0ng/ToDoList/issues"
+  },
+  "homepage": "https://github.com/th0ng/ToDoList#readme"
 }
